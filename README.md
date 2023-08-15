@@ -11,7 +11,7 @@ STEP 1:
 
 STEP 2: DATA MODELLING
 1. The csv files were inspected and the Entity Relatyionship Diagram of the tables were made, using QuickDBD.
-2. The ERD file is saved as ERD.png
+2. The ERD file is saved as ERD.png and the file in table format is saved as ERD_Table.pdf.
 
 
 STEP 3: DATA ENGINEERING
